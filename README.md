@@ -1,7 +1,7 @@
 # Analysis of Kickstarter Campaigns
 Kickstarter Analysis for Louise to uncover Trends in Successes/Failures
 
-### United States Theater/Play-Themed Kickstarter Analysis
+## United States Theater/Play-Themed Kickstarter Analysis
 *There were 398 Successful Kickstarter Campaigns and 218 Failed Kickstarter Campaigns in the US.
 ![image](https://user-images.githubusercontent.com/108035549/177896952-10fadbc3-6982-4ab3-9758-e959f7928f8b.png)
 
@@ -13,9 +13,11 @@ Kickstarter Analysis for Louise to uncover Trends in Successes/Failures
 ![image](https://user-images.githubusercontent.com/108035549/177897422-0b59e1b8-24f5-4267-a572-cee22563b7ee.png)
 
 *The Mean Funding Goal for successful US Theater Kickstarter Campaigns is $8,279, while the mean for failed US Theater Kickstarters is $12,367.
+
+
 ---
 
-### Great Britain Musical Theater/Play-Themed Kickstarter Analysis
+## Great Britain Musical Theater/Play-Themed Kickstarter Analysis
 *Great Britain also loves funding their Theaters. Great Britain had 324 successful Kickstarter camnpaigns across all categories, and Theater had 190 of those 324 successes. 
 
 *The Mean Funding Goal for British Musical Theater Kickstarters is $3,800, with the mean amount pledged being $2,428.
