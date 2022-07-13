@@ -28,7 +28,9 @@ When looking for the best date to launch a campaign, using the data is very insi
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/108035549/178831802-3dbe46f9-b6aa-46ef-9b33-dcb5664552e0.png)
 
-This graph above allows us to see that there is a large jump in the total number of campaigns launched between March and September. In total for the year, there are 779 Successful theater plays launched out of 1372 total campaigns for a baseline of 56% success rate. 489 campaigns failed in total, for a baseline of 35% failure rate.
+![image](https://user-images.githubusercontent.com/108035549/178843117-313ef16c-4eaa-4e25-8a7f-9c62f06c4a11.png)
+
+The graph and table above allows us to see that there is a large jump in the total number of campaigns launched between March and September. In total for the year, there are 779 Successful theater plays launched out of 1372 total campaigns for a baseline of 56% success rate. 489 campaigns failed in total, for a baseline of 35% failure rate.
 
 
 				
