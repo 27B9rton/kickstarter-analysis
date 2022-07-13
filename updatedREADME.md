@@ -9,12 +9,11 @@ To find insights with this data, I ran some analysis on Kickstart Campaigns in g
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/108035549/178830782-e15d8636-a462-4c9f-a9b1-2b07fc59dea1.png)
 
 
-I was able to find the mean and median Funding goals for both successful and failed campaigns, and break down the percentages of successful campaigns based on their funding goal amount by building an easy to read graph.
+I was able to find the mean and median Funding goals for both successful and failed campaigns, and break down the percentages of successful campaigns based on their funding goal amount by building an easy to read graph that you can see above.
 
 ![image](https://user-images.githubusercontent.com/108035549/178831176-b6908e9d-5dec-4ad6-9a68-03838c16e29d.png)
 
-
-In addition, I created a sheet where you can filter by country as well as by Category. It is currently selected to Theater, allowing you to see the number of failed, canceled, successful, and live campaigns for every country. 
+In addition, I created the above table where you can filter by country as well as by Category. It is currently selected to Theater, allowing you to see the number of failed, canceled, successful, and live theater campaigns for any country.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/108035549/178831392-6cbda096-e970-43e3-ae4b-6be3da23b802.png)
 
@@ -52,7 +51,7 @@ I broke down the success rate based on Funding Goal in increments of $5000.
 
 As most would expect, in general the lower the Funding Goal amount, the higher percentage of success. Campaigns with funding Goals under $1000 see an almost 75% success rate. The rate of success drops the higher you go until roughly $15,000. Interestingly enough, goals between $15,000 and $24,999 succeed and fail at essentially an equal rate. However, goals between $25000 and $35,000 have a higher success rate and lower failure rate. The lower failure rate is likely due to the increase in cancellations as well. The vast majority of projects have funding goals under $15,000.
 
-This graph makes it easy to see that under $15,000 seems to be the best aiming point for Louise.
+This graph makes it easy to see that under $15,000 seems to be the best aiming point for Louise's funding goal.
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/108035549/178840100-07cbdd5b-3068-4654-91ca-a26a4a6990bf.png)
 
 
@@ -66,9 +65,9 @@ The biggest challenge for me was finding what columns to put in PivotTables to m
 2. August sees the 3rd highest number of successful Theater Campaigns with 78 AND has the highest success rate with 64% of all Play Kickstarter Campaigns successfully achieving their goal. It also has the lowest failure rate at 28% (only 35 play campaigns failed!).
 - What can you conclude about the Outcomes based on Goals?
 1. The vast majority of successful campaign funding Goals are under $15,000.
-2. In general, the higher the funding amount, the more likely it is to Fail or being Canceled. 
+2. In general, the higher the funding amount, the more likely it is to Fail or be Canceled. 
 - What are some limitations of this dataset?
-It doesn't have enough data to show more reasons as to why campaigns fail or succeed. For example, if we had the data for page views or for link shares for individual campaigns, we could see which social medias to share the link to in order to increase the number of views and therefore increasing the likelihood of funding.
+It doesn't have enough data to show more reasons as to why campaigns fail or succeed. For example, if we had the data for page views or for link shares for individual campaign website links, we could see which social medias to share the link to in order to increase the number of views and therefore increasing the likelihood of funding.
 - What are some other possible tables and/or graphs that we could create?
 1. The number of months it took successful campaigns to reach their goal.
 2. Which genres of plays have the highest success rate for funding?
